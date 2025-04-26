@@ -1,7 +1,7 @@
 # 🖼️ Trabalho de Processamento digital de imagens 
 Esse trabalho consiste de 3 questões formuladas pelo professor que tem por objetivo manipular imagens com o python. As questões estão na imagens a seguir 
 
-![](imagens/Trabalho-PDI-AV1.png)
+![](images/Trabalho-PDI-AV1.png)
 
 ## 🛠️ Dependencias do projeto
 Todas as dependencias do projeto estão no arquivo `requirements.txt`.
